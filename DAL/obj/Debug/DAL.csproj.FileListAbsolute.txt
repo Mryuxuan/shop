@@ -1,0 +1,46 @@
+d:\documents\visual studio 2012\Projects\shop\DAL\bin\Debug\DAL.dll
+d:\documents\visual studio 2012\Projects\shop\DAL\bin\Debug\DAL.pdb
+d:\documents\visual studio 2012\Projects\shop\DAL\obj\Debug\DAL.dll
+d:\documents\visual studio 2012\Projects\shop\DAL\obj\Debug\DAL.pdb
+D:\shop\DAL\bin\Debug\DAL.dll
+D:\shop\DAL\bin\Debug\DAL.pdb
+D:\shop\DAL\obj\Debug\DAL.dll
+D:\shop\DAL\obj\Debug\DAL.pdb
+D:\shop\DAL\bin\Debug\Modal.dll
+D:\shop\DAL\bin\Debug\Modal.pdb
+D:\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\shop\DAL\bin\Debug\DAL.dll
+E:\shop\DAL\bin\Debug\DAL.pdb
+E:\shop\DAL\bin\Debug\Modal.dll
+E:\shop\DAL\bin\Debug\Modal.pdb
+E:\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\shop\DAL\obj\Debug\DAL.dll
+E:\shop\DAL\obj\Debug\DAL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\DAL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\DAL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\Modal.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\Modal.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\DAL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\DAL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\Modal.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\bin\Debug\Modal.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\DAL\obj\Debug\DAL.pdb
+C:\Users\Mr yu\Desktop\shop\DAL\bin\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\shop\DAL\bin\Debug\DAL.pdb
+C:\Users\Mr yu\Desktop\shop\DAL\bin\Debug\Modal.dll
+C:\Users\Mr yu\Desktop\shop\DAL\bin\Debug\Modal.pdb
+C:\Users\Mr yu\Desktop\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\shop\DAL\obj\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\shop\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\shop\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\shop\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\shop\DAL\bin\Debug\Modal.dll
+C:\Users\Administrator\Desktop\shop\DAL\bin\Debug\Modal.pdb
+C:\Users\Administrator\Desktop\shop\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shop\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\shop\DAL\obj\Debug\DAL.pdb

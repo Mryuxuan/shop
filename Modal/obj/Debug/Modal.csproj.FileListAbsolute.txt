@@ -1,0 +1,30 @@
+d:\documents\visual studio 2012\Projects\shop\Modal\bin\Debug\Modal.dll
+d:\documents\visual studio 2012\Projects\shop\Modal\bin\Debug\Modal.pdb
+d:\documents\visual studio 2012\Projects\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\shop\Modal\obj\Debug\Modal.dll
+d:\documents\visual studio 2012\Projects\shop\Modal\obj\Debug\Modal.pdb
+D:\shop\Modal\bin\Debug\Modal.dll
+D:\shop\Modal\bin\Debug\Modal.pdb
+D:\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+D:\shop\Modal\obj\Debug\Modal.dll
+D:\shop\Modal\obj\Debug\Modal.pdb
+E:\shop\Modal\bin\Debug\Modal.dll
+E:\shop\Modal\bin\Debug\Modal.pdb
+E:\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+E:\shop\Modal\obj\Debug\Modal.dll
+E:\shop\Modal\obj\Debug\Modal.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\bin\Debug\Modal.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\bin\Debug\Modal.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\bin\Debug\Modal.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\bin\Debug\Modal.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Modal\obj\Debug\Modal.pdb
+C:\Users\Administrator\Desktop\shop\Modal\bin\Debug\Modal.dll
+C:\Users\Administrator\Desktop\shop\Modal\bin\Debug\Modal.pdb
+C:\Users\Administrator\Desktop\shop\Modal\obj\Debug\Modal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shop\Modal\obj\Debug\Modal.dll
+C:\Users\Administrator\Desktop\shop\Modal\obj\Debug\Modal.pdb

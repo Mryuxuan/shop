@@ -1,0 +1,58 @@
+d:\documents\visual studio 2012\Projects\shop\BLL\bin\Debug\BLL.dll
+d:\documents\visual studio 2012\Projects\shop\BLL\bin\Debug\BLL.pdb
+d:\documents\visual studio 2012\Projects\shop\BLL\obj\Debug\BLL.dll
+d:\documents\visual studio 2012\Projects\shop\BLL\obj\Debug\BLL.pdb
+D:\shop\BLL\bin\Debug\BLL.dll
+D:\shop\BLL\bin\Debug\BLL.pdb
+D:\shop\BLL\obj\Debug\BLL.dll
+D:\shop\BLL\obj\Debug\BLL.pdb
+D:\shop\BLL\bin\Debug\DAL.dll
+D:\shop\BLL\bin\Debug\Modal.dll
+D:\shop\BLL\bin\Debug\DAL.pdb
+D:\shop\BLL\bin\Debug\Modal.pdb
+D:\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\shop\BLL\bin\Debug\BLL.dll
+E:\shop\BLL\bin\Debug\BLL.pdb
+E:\shop\BLL\bin\Debug\DAL.dll
+E:\shop\BLL\bin\Debug\Modal.dll
+E:\shop\BLL\bin\Debug\DAL.pdb
+E:\shop\BLL\bin\Debug\Modal.pdb
+E:\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\shop\BLL\obj\Debug\BLL.dll
+E:\shop\BLL\obj\Debug\BLL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\BLL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\BLL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\DAL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\Modal.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\DAL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\Modal.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\BLL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\BLL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\DAL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\Modal.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\DAL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\bin\Debug\Modal.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\BLL\obj\Debug\BLL.pdb
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\BLL.dll
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\BLL.pdb
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\DAL.dll
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\Modal.dll
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\DAL.pdb
+C:\Users\Mr yu\Desktop\shop\BLL\bin\Debug\Modal.pdb
+C:\Users\Mr yu\Desktop\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\shop\BLL\obj\Debug\BLL.dll
+C:\Users\Mr yu\Desktop\shop\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\Modal.dll
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\shop\BLL\bin\Debug\Modal.pdb
+C:\Users\Administrator\Desktop\shop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shop\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\shop\BLL\obj\Debug\BLL.pdb

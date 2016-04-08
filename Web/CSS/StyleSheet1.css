@@ -1,0 +1,52 @@
+﻿body {
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+.tdTitle {
+    background-color: #FF6600;
+    color: #FFFFFF;
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+A:link {
+    text-decoration: none;
+    color: #000000;
+    font-size: 12px;
+}
+A:hover {
+    color: #FF0000;
+    text-decoration: underline;
+     font-size: 12px;
+}
+A:visited {
+    color: #3366FF;
+     font-size: 12px;
+}
+.title {
+    font-family: 宋体, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3366FF;
+    height: 40px;
+    text-align: left;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #33CC33;
+}
+.tdMiddle {
+    border-left: 1px solid #33CC33;
+    border-bottom: 1px solid #33CC33;
+    text-align: right;
+    height: 30px;
+    }
+.tdRight {
+    text-align: left;
+    border-style: none none solid solid;
+    border-width: 1px;
+    border-color: #33CC33;
+
+}

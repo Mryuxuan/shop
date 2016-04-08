@@ -1,0 +1,87 @@
+d:\documents\visual studio 2012\Projects\shop\Web\bin\Web.dll
+d:\documents\visual studio 2012\Projects\shop\Web\bin\Web.pdb
+d:\documents\visual studio 2012\Projects\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\shop\Web\obj\Debug\Web.dll
+d:\documents\visual studio 2012\Projects\shop\Web\obj\Debug\Web.pdb
+D:\shop\Web\bin\Web.dll
+D:\shop\Web\bin\Web.pdb
+D:\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\shop\Web\obj\Debug\Web.dll
+D:\shop\Web\obj\Debug\Web.pdb
+D:\shop\Web\bin\BLL.dll
+D:\shop\Web\bin\DAL.dll
+D:\shop\Web\bin\Modal.dll
+D:\shop\Web\bin\BLL.pdb
+D:\shop\Web\bin\DAL.pdb
+D:\shop\Web\bin\Modal.pdb
+E:\shop\Web\bin\Web.dll
+E:\shop\Web\bin\Web.pdb
+E:\shop\Web\bin\BLL.dll
+E:\shop\Web\bin\DAL.dll
+E:\shop\Web\bin\Modal.dll
+E:\shop\Web\bin\BLL.pdb
+E:\shop\Web\bin\DAL.pdb
+E:\shop\Web\bin\Modal.pdb
+E:\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\shop\Web\obj\Debug\Web.dll
+E:\shop\Web\obj\Debug\Web.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.pdb
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.dll
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.pdb
+G:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\LitJSON.dll
+F:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\LitJSON.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Web.pdb
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\LitJSON.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\BLL.pdb
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\DAL.pdb
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\bin\Modal.pdb
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.dll
+J:\教学文案\大二下学期\asp.nat\文件接收柜\shop\Web\obj\Debug\Web.pdb
+C:\Users\Mr yu\Desktop\shop\Web\bin\Web.dll
+C:\Users\Mr yu\Desktop\shop\Web\bin\Web.pdb
+C:\Users\Mr yu\Desktop\shop\Web\bin\BLL.dll
+C:\Users\Mr yu\Desktop\shop\Web\bin\DAL.dll
+C:\Users\Mr yu\Desktop\shop\Web\bin\LitJSON.dll
+C:\Users\Mr yu\Desktop\shop\Web\bin\Modal.dll
+C:\Users\Mr yu\Desktop\shop\Web\bin\BLL.pdb
+C:\Users\Mr yu\Desktop\shop\Web\bin\DAL.pdb
+C:\Users\Mr yu\Desktop\shop\Web\bin\Modal.pdb
+C:\Users\Mr yu\Desktop\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Mr yu\Desktop\shop\Web\obj\Debug\Web.dll
+C:\Users\Mr yu\Desktop\shop\Web\obj\Debug\Web.pdb
+C:\Users\Administrator\Desktop\shop\Web\bin\Web.dll
+C:\Users\Administrator\Desktop\shop\Web\bin\Web.pdb
+C:\Users\Administrator\Desktop\shop\Web\bin\BLL.dll
+C:\Users\Administrator\Desktop\shop\Web\bin\DAL.dll
+C:\Users\Administrator\Desktop\shop\Web\bin\LitJSON.dll
+C:\Users\Administrator\Desktop\shop\Web\bin\Modal.dll
+C:\Users\Administrator\Desktop\shop\Web\bin\BLL.pdb
+C:\Users\Administrator\Desktop\shop\Web\bin\DAL.pdb
+C:\Users\Administrator\Desktop\shop\Web\bin\Modal.pdb
+C:\Users\Administrator\Desktop\shop\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shop\Web\obj\Debug\Web.dll
+C:\Users\Administrator\Desktop\shop\Web\obj\Debug\Web.pdb

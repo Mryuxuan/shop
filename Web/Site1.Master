@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Web.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="CSS/StyleSheet1.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <form id="form1" runat="server" enctype="multipart/form-data">
+    <div style="width: 100%; position: absolute; top: 0px; text-align: center; background-color: #C0C0C0;"  >
+        <center>
+             <div style="width: 1200px;"  >
+               <div id="logo " style="width: 400px; height: 100px; float: left"><img src="image/logo.jpg" /></div>
+                <div id="right" style="width: 750px; height: 100px; text-align: right;  float: left;">
+                    <br />
+                      <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/default.aspx">回到首页</asp:HyperLink>
+                    <br /><br />
+                       <asp:HyperLink ID="HyperLink2" runat="server">联系我们</asp:HyperLink>
+                    <br /><br />
+                    <asp:HyperLink ID="HyperLink3" runat="server">客户投诉</asp:HyperLink>
+                </div>
+                <div id="main" style="background-color: #FFFFFF; width: 100%;  clear: both;">
+                     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>    
+
+                </div>
+
+             <div style="font-family: 宋体, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; background-color: #CCCCCC; height: 30px; text-align: center"  >九江职业技术学院（2015）</div>
+             </div>
+
+        </center>
+      
+    </div>
+    </form>
+</body>
+</html>
