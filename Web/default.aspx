@@ -118,12 +118,12 @@ A:visited {
                  <div id="content3" class="none" align="left"  style="width: 600px; height: 40px; clear: both;"><asp:TextBox ID="TextBox3" runat="server" Width="348px">3</asp:TextBox>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:ImageButton ID="ImageButton3" runat="server" ImageUrl="~/image/search.jpg"></asp:ImageButton></div>
                  <div id="content4" class="none" align="left"  style="width: 600px; height: 40px; clear: both;"><asp:TextBox ID="TextBox4" runat="server" Width="348px">4</asp:TextBox>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="~/image/search.jpg"></asp:ImageButton></div>
              </div>
-             <div id="menu" style="background-color:#bdb7b7; width: 1200px; height: 25px; clear: both">
+             <%--<div id="menu" style="background-color:#bdb7b7; width: 1200px; height: 25px; clear: both">
                  <a href="addProduct.aspx">商品发布</a>
 
                  <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click"> 商品发布1</asp:LinkButton>
                  <asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton3_Click"> 新闻管理</asp:LinkButton>
-             </div>
+             </div>--%>
              <div id="left" style="background-color: #ffffff; width: 250px; height: 700px; float: left">
                  <table style="width: 239px" cellpadding="0" cellspacing="0" >
                      <tr>

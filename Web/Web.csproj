@@ -72,7 +72,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="addProduct.aspx" />
     <Content Include="Admin\NewsInfo.aspx" />
     <Content Include="Admin\UserAdmin.aspx" />
     <Content Include="AllNews.aspx" />
@@ -2201,17 +2200,10 @@
     <Content Include="ProductInfo.aspx" />
     <Content Include="Register.aspx" />
     <Content Include="shopCar.aspx" />
-    <Content Include="SPTJ.aspx" />
+    <Content Include="addProduct.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="addProduct.aspx.cs">
-      <DependentUpon>addProduct.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="addProduct.aspx.designer.cs">
-      <DependentUpon>addProduct.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Admin\admin.Master.cs">
       <DependentUpon>admin.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -2308,12 +2300,12 @@
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
     </Compile>
-    <Compile Include="SPTJ.aspx.cs">
-      <DependentUpon>SPTJ.aspx</DependentUpon>
+    <Compile Include="addProduct.aspx.cs">
+      <DependentUpon>addProduct.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="SPTJ.aspx.designer.cs">
-      <DependentUpon>SPTJ.aspx</DependentUpon>
+    <Compile Include="addProduct.aspx.designer.cs">
+      <DependentUpon>addProduct.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

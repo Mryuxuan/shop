@@ -129,7 +129,7 @@ namespace Web
                 }
                 else//具有发布商品的权限
                 {
-                    Response.Redirect("SPTJ.aspx");
+                    Response.Redirect("addProduct.aspx");
                 }
             }
         }

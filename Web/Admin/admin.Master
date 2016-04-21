@@ -37,14 +37,14 @@
 
 		</div>
 		<div title="用户管理" data-options="iconCls:'icon-edit'" style="padding:20px;">
-			<a href="#" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户添加</a>
+			<a href="../Register.aspx" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户添加</a>
             <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户查询</a>
             <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户删除</a>
             <a href="#" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户修改</a>
 
 		</div>
 		<div title="商品管理" data-options="iconCls:'icon-edit'" style="padding:20px;">
-			
+			<a href="../addProduct.aspx" class="easyui-linkbutton" data-options="plain:true" style="width:140px;text-align:left">用户修改</a>
 		</div>
 		<div title="新闻管理" data-options="iconCls:'icon-edit'" style="padding:20px;">
 			
